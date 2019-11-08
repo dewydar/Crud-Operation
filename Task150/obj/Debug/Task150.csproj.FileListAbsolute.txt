@@ -1,0 +1,11 @@
+F:\iti\LinQ\Task150\Task150\bin\Debug\Task150.exe.config
+F:\iti\LinQ\Task150\Task150\bin\Debug\Task150.exe
+F:\iti\LinQ\Task150\Task150\bin\Debug\Task150.pdb
+F:\iti\LinQ\Task150\Task150\bin\Debug\EntityFramework.dll
+F:\iti\LinQ\Task150\Task150\bin\Debug\EntityFramework.SqlServer.dll
+F:\iti\LinQ\Task150\Task150\bin\Debug\EntityFramework.xml
+F:\iti\LinQ\Task150\Task150\bin\Debug\EntityFramework.SqlServer.xml
+F:\iti\LinQ\Task150\Task150\obj\Debug\Task150.csproj.CoreCompileInputs.cache
+F:\iti\LinQ\Task150\Task150\obj\Debug\Task150.exe
+F:\iti\LinQ\Task150\Task150\obj\Debug\Task150.pdb
+F:\iti\LinQ\Task150\Task150\obj\Debug\Task150.csprojResolveAssemblyReference.cache
